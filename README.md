@@ -1,7 +1,7 @@
 # JupyterDropDownQuizzes
 Create matching-type quizzes in jupyter notebooks, with options to include distractors, randomization, and/or provide instant feedback.
 
-## Dependencies (most or all should already be present with python3 jupyter:
+## Dependencies (most or all should already be present with python3 jupyter):
 * Jupyter Notebook or Jupyter Lab running python3
 * ipywidgets
 * IPython (display)
