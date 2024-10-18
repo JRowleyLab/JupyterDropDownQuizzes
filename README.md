@@ -12,7 +12,7 @@ Create matching-type quizzes in jupyter notebooks, with options to include distr
 Follow the example inside the jupyter notebook found in this repository: [DropDownQuizExamples.ipynb](DropDownQuizExamples.ipynb). The first cell is required to load in required dependencies and the quiz_module. 
 Questions, answers, hints, and distractors are stored in a JSON file, an example of which can be found in the questions folder: [TestingExample.json](questions/TestingExample.json). 
 
-![image](https://github.com/user-attachments/assets/9ea1bacc-a3d2-432b-8182-a15c4a2dcc97)
+![image](https://github.com/user-attachments/assets/dd9b3e22-7814-4b72-9c65-104c179715cd)
 
 Replace the values for question, answer, and explanation. Add additional blocks as needed. Distractors are optional and provide items to the dropdown menu that are not false answers to the questions. If you do not want to include distractors, simply delete everything within the corresponding brackets.
 
